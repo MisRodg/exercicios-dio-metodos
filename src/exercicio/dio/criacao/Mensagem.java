@@ -1,4 +1,4 @@
-package exercicios.dio.criacao;
+package exercicio.dio.criacao;
 
 public class Mensagem {
     public static void obterMensagem(int hora){
